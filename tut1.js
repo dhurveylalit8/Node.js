@@ -1,5 +1,5 @@
-// const fs = require("fs")
-// fs.writeFileSync("file3.txt", "Hellow programmers")
+const fs = require("fs")
+fs.writeFileSync("file3.txt", "Hellow programmers")
 
 // ===================
 
